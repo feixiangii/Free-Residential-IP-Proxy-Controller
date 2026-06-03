@@ -2,6 +2,11 @@
 
 ---
 
+# 一键极速部署
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/a63414262/CF-Server-Monitor-Pro)
+
+
 KUI面板正在集成融合免费免费住宅IP代理调度系统 https://github.com/a6216abcd/K-UI
 
 # 免费住宅IP代理调度系统 🌐
