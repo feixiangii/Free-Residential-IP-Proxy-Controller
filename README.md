@@ -85,7 +85,7 @@ wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
 访问您刚才部署的 Cloudflare Worker 域名（需输入配置的 `WEB_USER` 和 `WEB_PASS` 进行 Basic Auth 认证）。在面板右上角复制自动生成的纳管命令并执行：
 
 ```bash
-bash <(curl -sL [https://您的worker域名.workers.dev/agent](https://您的worker域名.workers.dev/agent))
+bash <(curl -sL (https://您的worker域名.workers.dev/agent))
 
 ```
 
